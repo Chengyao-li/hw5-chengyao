@@ -1,0 +1,6 @@
+name,age,email,score,empty_column
+Alice,20,alice@example.com,88,
+Bob,21,bob@example.com,92,
+Charlie,,charlie@example.com,85,
+Bob,21,bob@example.com,92,
+Diana,22,,90,
