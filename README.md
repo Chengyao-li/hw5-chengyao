@@ -61,4 +61,4 @@ Human judgment is still needed to decide how to fix missing values, whether dupl
 
 ## Video link
 
-Paste your Zoom, YouTube, or Vimeo video link here.
+[Paste your Zoom, YouTube, or Vimeo video link here.](https://youtu.be/s2eO9YZI8vA)
